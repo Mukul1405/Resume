@@ -1,0 +1,9 @@
+body,h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p{
+    background-color: rgba(238, 236, 235, 0.938);
+    padding-block: 100px 100px;
+    padding: 10px;
+    box-shadow: 3px 3px 8px;
+}
